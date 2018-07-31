@@ -1,1 +1,1 @@
-[Jerry-Luo.github.io]: https://jerry-luo.github.io
+[jerry-luo.github.io](https://jerry-luo.github.io)
